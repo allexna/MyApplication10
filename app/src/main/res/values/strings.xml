@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application10</string>
+    <string name="about_title">О программе</string>
+    <string name="hello_word1">Wellcom</string>
+    <string name="hello_word2">Wellcom to my page</string>
+    <string name="user">User name</string>
+    <string name="gift">Gift</string>
+    <string name="hello_word">У лукоморья дуб зеленый;\n
+    Златая цепь на дубе том;\n
+    Иднем и ночью<b>кот ученый</b>\n
+    Все ходит по цепи кругом;\n
+    Идет<b>направо</b> - песнь заводит,\n
+    <b>Налево</b> - сказку говорит.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
